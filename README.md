@@ -24,7 +24,7 @@ Ensure you have **Python 3.8+** installed on your system.
    ```
 
 3. Set up your Google API Key:
-   Replace your Google Gemini API key in the script:
+   Replace your Google Gemini API key in the script
    ```bash
    export GOOGLE_API_KEY="your_api_key_here"
    ```
