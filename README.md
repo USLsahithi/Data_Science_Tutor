@@ -19,15 +19,15 @@ Ensure you have **Python 3.8+** installed on your system.
    cd ai-data-science-tutor
    ```
 2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Set up your Google API Key:
-   Store the key as an environment variable:
-  ```bash
-  export GOOGLE_API_KEY="your_api_key_here"
-  ```
+   Replace your Google Gemini API key in the script:
+   ```bash
+   export GOOGLE_API_KEY="your_api_key_here"
+   ```
 
 4. Run the Streamlit app:
    ```bash
